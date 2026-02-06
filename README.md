@@ -27,15 +27,12 @@ Preliminary results presented at LPS2025, Vienna: https://www.eoafrica-rd.org/wp
 - The TANZEO-BioStock source code (v1.0.0) is archived on Zenodo:  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17914046.svg)](https://doi.org/10.5281/zenodo.18509693)
 
----
-
-## 📂 Repository Structure
-
-Each paper directory contains the corresponding source code, configuration files, and usage instructions.
 
 ---
 
 ## 📄 Related Publications
+Each paper directory contains the corresponding source code, configuration files, and usage instructions.
+
 - **Paper 1:**  
   [Wall-to-Wall Mapping of Forest Canopy Height using ICESat-2 Data and Multi-source Remote Sensing Images in a Machine Learning Framework](papers/paper1)
 
