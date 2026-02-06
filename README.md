@@ -29,8 +29,6 @@ Each paper directory contains the corresponding source code, configuration files
 - **Paper 1:**  
   [Wall-to-Wall Mapping of Forest Canopy Height using ICESat-2 Data and Multi-source Remote Sensing Images in a Machine Learning Framework](papers/paper1)
 
-   https://doi.org/10.1109/MIGARS67156.2025.11232131
-
 ---
 
 ## 👥 Project Team
