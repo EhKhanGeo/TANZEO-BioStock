@@ -20,13 +20,12 @@ Preliminary results presented at LPS2025, Vienna: https://www.eoafrica-rd.org/wp
 
 ---
 
-## 📦 Data Availability
-The datasets associated with this project are publicly available on **Zenodo**:
+## 📦🔗 Data and Software Availability
 
-- **Forest canopy height, biomass, and carbon stock datasets for the West Usambara Mountains, Tanzania**
-- DOI: https://doi.org/10.5281/zenodo.17914046
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17914046.svg)](https://doi.org/10.5281/zenodo.17914046)
+- Forest canopy height, biomass, and carbon stock datasets for the West Usambara Mountains, Tanzania available on Zenodo: 
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17914046.svg)](https://doi.org/10.5281/zenodo.17914046)
+- The TANZEO-BioStock source code (v1.0.0) is archived on Zenodo:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17914046.svg)](https://doi.org/10.5281/zenodo.18509693)
 
 ---
 
