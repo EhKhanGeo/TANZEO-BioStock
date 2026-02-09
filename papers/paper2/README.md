@@ -16,7 +16,7 @@ Forest canopy height (FCH) is a critical biophysical parameter that characterize
 
 ## Data & Outputs
 <p align="center">
-  <img src="assets/images/Flowchart_new_2.png" width="100%">
+  <img src="assets/images/Flowchart_new_2.jpg" width="100%">
   <img src="assets/images/image.png" width="100%">
 
 </p>
