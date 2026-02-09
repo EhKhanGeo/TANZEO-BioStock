@@ -33,8 +33,8 @@ Preliminary results presented at LPS2025, Vienna: https://www.eoafrica-rd.org/wp
 ## 📄 Related Publications
 Each paper directory contains the corresponding source code, configuration files, and usage instructions.
 
-- **Paper 1:**  
-  [Wall-to-Wall Mapping of Forest Canopy Height using ICESat-2 Data and Multi-source Remote Sensing Images in a Machine Learning Framework](papers/paper1)
+- **  [Wall-to-Wall Mapping of Forest Canopy Height using ICESat-2 Data and Multi-source Remote Sensing Images in a Machine Learning Framework](papers/paper1)**  
+
 
 ---
 
