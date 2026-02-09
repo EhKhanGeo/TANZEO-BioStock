@@ -1,4 +1,4 @@
-# Paper 1
+# Phase 1
 
 ### Reference
 - **Title:** Wall-to-Wall Mapping of Forest Canopy Height using ICESat-2 Data and Multi-source Remote Sensing Images in a Machine Learning Framework
