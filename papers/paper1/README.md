@@ -18,9 +18,16 @@ Forest Canopy Height (FCH) is one of the key variables for understanding forest 
 The datasets used in this study are publicly available on Zenodo:
 
 - DOI: https://doi.org/10.5281/zenodo.17914046
-
-
 ---
+<p align="center">
+  <img src="figures/FlowChart-Biomass2.jpg" width="40%">
+  <img src="figures/Map.png" width="35%">
+</p>
+
+<p align="center">
+</p>
+---
+
 
 ## How to Run
 1. Create the Python environment
