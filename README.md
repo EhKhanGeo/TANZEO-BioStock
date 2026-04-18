@@ -42,8 +42,8 @@ Each paper directory contains the corresponding source code, configuration files
 
 ## 👥 Project Team
 - **Seyed Ehsan Khankeshizadeh** – Data collection, analysis, modeling  
-- **Sadegh Jamali** – Project manager  
-- **William Mauya** – Field data collection  
+- **Sadegh Jamali** – Project PI  
+- **William Mauya** – Project PI, Field data collection  
 - **Soheil Zaghian** – Methodology and validation  
 - **Torbern Tagesson** – Scientific consultation  
 - **Ali Mohammadizadeh** – Supervision
