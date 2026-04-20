@@ -40,14 +40,16 @@ Each paper directory contains the corresponding source code, configuration files
 
 ---
 
-## 👥 Project Team
-- **Seyed Ehsan Khankeshizadeh** – Data collection, analysis, modeling  
+## 👥 Project Team 
 - **Sadegh Jamali** – Project PI  
-- **William Mauya** – Project PI, Field data collection  
-- **Soheil Zaghian** – Methodology and validation  
-- **Torbern Tagesson** – Scientific consultation  
-- **Ali Mohammadizadeh** – Supervision
+- **Ernest William Mauya** – Project PI, Field data collection
+- **Seyed Ehsan Khankeshizadeh** – Data collection, analysis, modeling 
+- **Soheil Zaghian** – Methodology and validation
+- **Torbern Tagesson** – Project member 
 - **Filbert Francis** – Project member
+- **Diana Lawrence Tesha** – Project member
+- **Sami D. Madundo** – Project member
+- **Ali Mohammadizadeh** – Supervision
 
 ---
 
