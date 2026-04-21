@@ -50,6 +50,7 @@ Each paper directory contains the corresponding source code, configuration files
 - **Diana Lawrence Tesha** – Project member
 - **Sami D. Madundo** – Project member
 - **Ali Mohammadizadeh** – Supervision
+- **Justo Jonas** – Project member
 
 ---
 
